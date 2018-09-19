@@ -87,6 +87,6 @@ There are lots of libraries in python3, so when you are developing something mak
 
 
 
-```
-Author - [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
-```
+
+ Author - [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/) 
+
