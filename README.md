@@ -1,4 +1,4 @@
-# Free Resources for learning python 3
+# Free Resources for learning python 3 [![Cult Of Martians][cult-img]][cult]
 
 The main reason for learning python 3 is for massive prototyping. It is used everywhere, and the code is relatively small. There are tremendous resources out there, some of them are given.
 There are lots of libraries in python3, so when you are developing something make sure it doesn't have a library, so use it for not making that from scratch!
@@ -21,7 +21,6 @@ There are lots of libraries in python3, so when you are developing something mak
 * [Python-Guide](https://docs.python-guide.org/)
 
 ## Necessary libraries
-
 
 * [Python-Course Numpy](https://www.python-course.eu/numpy.php)
 * [Numpy-Stanford Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
