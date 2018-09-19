@@ -6,17 +6,19 @@ There are lots of libraries in python3, so when you are developing something mak
 ## For clearing the basics
 
 * [Course by Dr-Chuck of University Of Michigan](http://www.pythonlearn.com/) - Course
-* [Python-Programming](https://pythonprogramming.net/introduction-to-python-programming/)
-* [Tutorials Point](https://www.tutorialspoint.com/python3/)
-* [Python Course](https://www.python-course.eu/python3_course.php)
-* [Programiz](https://www.programiz.com/python-programming/tutorial)
+* [Python Course](https://www.python-course.eu/python3_course.php) - Course
+* [Automating the Booring stuffs in Python](https://automatetheboringstuff.com/) - Course
+* [Python-Programming](https://pythonprogramming.net/introduction-to-python-programming/) - Course
+* [Udemy Free Course - Gentle Intro to Deep learining using Python](https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview) -> Can get a certificate of completion for free
+* [Udemy Python For Begginers](https://www.udemy.com/ardit-sulce-python-for-beginners/learn/v4/overview) -> Can get a certificate of completion for free
+* [Udemy Programming in Python](https://www.udemy.com/hello-python-programming-story-1/learn/v4/overview) -> Can get a certificate of completion for free
+* [Socratica You-Tube](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Course
 * [Py-Docs-Tutorial](https://docs.python.org/3/tutorial/)
 * [Py-Docs](https://docs.python.org/3/)
+* [Tutorials Point](https://www.tutorialspoint.com/python3/)
+* [Programiz](https://www.programiz.com/python-programming/tutorial)
 * [Python-Guide](https://docs.python-guide.org/)
-* [Automating the Booring stuffs in Python](https://automatetheboringstuff.com/)
-* [Udemy Free Course - Gentle Intro to Deep learining using Python](https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview) -> Can get a certificate of completion for free
-* [Udemy Python For Begginers](https://www.udemy.com/ardit-sulce-python-for-beginners/learn/v4/overview)
-* [Udemy Programming in Python](https://www.udemy.com/hello-python-programming-story-1/learn/v4/overview)
+
 
 ## For image processing
 
