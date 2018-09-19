@@ -20,14 +20,42 @@ There are lots of libraries in python3, so when you are developing something mak
 * [Programiz](https://www.programiz.com/python-programming/tutorial)
 * [Python-Guide](https://docs.python-guide.org/)
 
-## Necessary libraries
+# Necessary libraries
+
+## Numpy
 
 * [Python-Course Numpy](https://www.python-course.eu/numpy.php)
 * [Numpy-Stanford Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [Tutorialspoint Numpy tutorials](https://www.tutorialspoint.com/numpy)
 * [Scipy-Org Numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 * [Numpy Dataquest Blog](https://www.dataquest.io/blog/numpy-tutorial-python/)
-* 
+* [Towards Data Science](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db)
+* [Geeks For Geeks](https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/)
+
+## Matplotlib
+
+* [Matplotlib Tutorial](https://matplotlib.org/tutorials/index.html)
+* [Crash Course](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+* [Labri Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+* [Sci-py Matplotlib](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+* [Matplotlib User Guide](https://matplotlib.org/users/index.html)
+* [Plotting in Matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+* [Real Python Matplotlib Guide](https://realpython.com/python-matplotlib-guide/)
+* [Python 3 Datascience Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
+* [Kaggle-Matplotlib-Guide](https://www.kaggle.com/grroverpr/matplotlib-plotting-guide)
+* [Pandas and Matplotlib](https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c)
+
+
+## Pandas
+
+* [Hacker-Earth Pandas Tutorial](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
+* [Edureka Pandas Tutorial](https://www.edureka.co/blog/python-pandas-tutorial/)
+* [Pythonprogramming Net Pandas Tutorial](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+* [Datacamp Pandas Tutorial](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+* [Pandas Tutorial Pydata](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+* [Tutorials Point Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/)
+* [LearnPython Pandas](https://www.learnpython.org/en/Pandas_Basics)
+
 
 ## For image processing
 
