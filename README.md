@@ -57,6 +57,8 @@ There are lots of libraries in python3, so when you are developing something mak
 * [LearnPython Pandas](https://www.learnpython.org/en/Pandas_Basics)
 
 
+# Others
+
 ## For image processing
 
 * [OpenCV-3](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
@@ -74,7 +76,7 @@ There are lots of libraries in python3, so when you are developing something mak
 
 * [Machine Learning Mastery Blogs](https://machinelearningmastery.com/blog/)
 * [Google Research Blog](https://ai.google/research)
-* [Open AI - Elon Musk](blog.openai.com)
+* [Open AI](blog.openai.com) -> Elon Musk's
 * [AI trends](https://aitrends.com/)
 * [MIT News](http://news.mit.edu/topic/artificial-intelligence2)
 * [Chat-Bot's life](https://chatbotslife.com)
@@ -82,3 +84,9 @@ There are lots of libraries in python3, so when you are developing something mak
 * [Chat-Bot Magazine](https://chatbotsmagazine.com)
 * [Top-Bots](www.topbots.com)
 * [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+
+
+
+```
+Author - [Jimut Bahan Pal](https://www.linkedin.com/in/jimut-bahan-pal-156862123/)
+```
