@@ -85,6 +85,7 @@ There are lots of libraries in python3, so when you are developing something mak
 * [Top-Bots](www.topbots.com)
 * [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 
+Bhai er sate ekta timetable kore  dao
 
 
 
